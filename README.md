@@ -12,13 +12,13 @@
 ---
 
 ## 🛠 Мой стек:
-![Python](assets/python-logo.svg)
-![FastAPI](assets/fastapi-logo.png)
-![Docker](assets/docker-logo.png)
-![PostgreSQL](assets/postgresql-elephant.svg)
-![Redis](assets/redis-logo.png)
-![Linux](assets/linux-tux.png)
-![Git](assets/git-logo.svg)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
