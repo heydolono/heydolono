@@ -24,11 +24,12 @@
 ---
 
 ## 🧩 Интересные проекты:
-| Название | Описание | Технологии |
-|----------|----------|------------|
-| **Проект 1** | Краткое описание вашего проекта | ![FastAPI](assets/fastapi-logo.png) ![PostgreSQL](assets/postgresql-elephant.svg) |
-| **Проект 2** | Краткое описание вашего проекта | ![Docker](assets/docker-logo.png) ![Python](assets/python-logo.svg) |
-| **Проект 3** | Краткое описание вашего проекта | ![Redis](assets/redis-logo.png) ![Linux](assets/linux-tux.png) |
+| Название                                                                                     | Описание                                                                                      | Технологии                                                                                      |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [**Rupor**](https://github.com/heydolono/rupor)                                              | Веб-приложение для создания и обмена короткими сообщениями                                              | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| [**Foodgram**](https://github.com/heydolono/foodgram)                                        | Сервис для публикации рецептов и формирования списков покупок                               | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| [**QRkot Spreadsheets**](https://github.com/heydolono/QRkot_spreadsheets)                   | Приложение для сбора пожертвований с автоматической интеграцией данных в Google Spreadsheets | ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Google Sheets API](https://img.shields.io/badge/google%20sheets-%234285F4.svg?style=for-the-badge&logo=googlesheets&logoColor=white) |
+
 
 ---
 
@@ -36,5 +37,3 @@
 ![Максим's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydolono&show_icons=true&theme=dark)
 
 ---
-
-> **💡 Совет:** Замените заглушки своими данными, ссылками на проекты и контактами.
